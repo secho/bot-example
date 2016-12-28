@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/valda-z/bot-example.git"
+    "url": "git+https://github.com/secho/bot-example/bot-example.git"
   },
   "keywords": [
     "bot",
@@ -17,9 +17,9 @@
   "author": "valda-z",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/valda-z/bot-example/issues"
+    "url": "https://github.com/secho/bot-example/issues"
   },
-  "homepage": "https://github.com/valda-z/bot-example#readme",
+  "homepage": "https://github.com/secho/bot-example#readme",
   "dependencies": {
     "botbuilder": "^3.4.4",
     "express": "^4.14.0",
